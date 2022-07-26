@@ -1,5 +1,5 @@
 ### I'm a beginner Junior Java Developer👋
-![Bootstrap logo](https://i.postimg.cc/SNd8dpjC/i.webp)
+<!-- ![Bootstrap logo](https://i.postimg.cc/SNd8dpjC/i.webp) -->
 ### Languages and Tools
 ![java](https://img.shields.io/badge/-java-090909?style=for-the-badge&logo=Java&logoColor=00bfff) ![spring](https://img.shields.io/badge/-spring-090909?style=for-the-badge&logo=spring&logoColor=76ff7a) ![hibernate](https://img.shields.io/badge/-hibernate-090909?style=for-the-badge&logo=hibernate&logoColor=cccc00) ![maven](https://img.shields.io/badge/-maven-090909?style=for-the-badge&logo=maven&logoColor=00bfff)
 </br>
