@@ -1,12 +1,8 @@
 ### Hi there 👋
 ## I'm a beginner Junior Java Developer
 
-###Languages and Tools
-![java](httpsimg.shields.iobadge-java-090909style=for-the-badge&logo=java&logoColor=ffcf40) ![spring](httpsimg.shields.iobadge-spring-090909style=for-the-badge&logo=spring&logoColor=77dd77) ![hibernate](httpsimg.shields.iobadge-hibernate-090909style=for-the-badge&logo=hibernate&logoColor=ffcf40) ![postgresql](httpsimg.shields.iobadge-postgresql-090909style=for-the-badge&logo=postgresql&logoColor=47C5FB) ![git](httpsimg.shields.iobadge-git-090909style=for-the-badge&logo=git&logoColor=ff0000) ![gradle](httpsimg.shields.iobadge-gradle-090909style=for-the-badge&logo=gradle&logoColor=77dd77) ![maven](httpsimg.shields.iobadge-maven-090909style=for-the-badge&logo=%maven&logoColor=77dd77)
-
-
-###Follow Me
-[![telegram](httpsimg.shields.iobadge-telegram-090909style=for-the-badge&logo=telegram&logoColor=ffcf40)](t.metanirzum) [![instagram](httpsimg.shields.iobadge-instagram-090909style=for-the-badge&logo=instagram&logoColor=ff4040)](httpswww.instagram.comtanirzum) [![linkedin](httpsimg.shields.iobadge-linkedin-090909style=for-the-badge&logo=linkedin&logoColor=42aaff)](httplinkedin.comintanirbergen-zamanbek-0a1392205) [![github](httpsimg.shields.iobadge-github-090909style=for-the-badge&logo=github&logoColor=464531)](httpsgithub.comTanirzum)
+### Languages and Tools
+![Flutter](https://img.shields.io/badge/-Gradle-090909?style=for-the-badge&logo=gradle&logoColor=009900)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
