@@ -2,7 +2,10 @@
 ## I'm a beginner Junior Java Developer
 
 ### Languages and Tools
-![Flutter](https://img.shields.io/badge/-Gradle-090909?style=for-the-badge&logo=gradle&logoColor=009900)
+![java](https://img.shields.io/badge/-java-090909?style=for-the-badge&logo=Java&logoColor=00bfff) ![spring](https://img.shields.io/badge/-spring-090909?style=for-the-badge&logo=spring&logoColor=76ff7a) ![hibernate](https://img.shields.io/badge/-hibernate-090909?style=for-the-badge&logo=hibernate&logoColor=cccc00) ![maven](https://img.shields.io/badge/-maven-090909?style=for-the-badge&logo=maven&logoColor=00bfff) ![gradle](https://img.shields.io/badge/-Gradle-090909?style=for-the-badge&logo=gradle&logoColor=76ff7a) ![postgresql](https://img.shields.io/badge/-postgresql-090909?style=for-the-badge&logo=postgresql&logoColor=00bfff) ![git](https://img.shields.io/badge/-git-090909?style=for-the-badge&logo=git&logoColor=ff6800)
+
+### Follow Me
+[![telegram](https://img.shields.io/badge/-telegram-090909?style=for-the-badge&logo=telegram&logoColor=ff6800)](t.metanirzum) [![instagram](https://img.shields.io/badge/-instagram-090909?style=for-the-badge&logo=instagram&logoColor=ff4040)](httpswww.instagram.comtanirzum) [![linkedin](https://img.shields.io/badge/-linkedin-090909?style=for-the-badge&logo=linkedin&logoColor=42aaff)](httplinkedin.comintanirbergen-zamanbek-0a1392205) [![github](https://img.shields.io/badge/-github-090909?style=for-the-badge&logo=github&logoColor=464531)](httpsgithub.comTanirzum)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
